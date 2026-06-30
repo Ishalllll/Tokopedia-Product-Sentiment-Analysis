@@ -5,7 +5,6 @@ Klasifikasi sentimen **3 kelas** (positif, netral, negatif) pada ulasan produk e
 ## 📊 Dataset
 
 - **File:** `review_product.csv`, berisi 40.597 ulasan produk (kolom utama: `text`, `rating`, plus metadata produk)
-- **Sumber:** `⟨ISI SUMBER DATA, mis. link Kaggle / hasil scraping / dataset mata kuliah⟩`
 - **Label** diturunkan dari `rating`:
   - rating >= 4 dilabeli `positif` (1)
   - rating = 3 dilabeli `netral` (0)
